@@ -1,0 +1,7 @@
+mkdir ecommerce-site
+cd ecommerce-site
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose dotenv cors
+npm install nodemon --save-dev
